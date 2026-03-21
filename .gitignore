@@ -1,6 +1,5 @@
 # Custom configuration
 /Dataset
-/Dataset/*
 *.zip
 *.tar.gz
 *.jpg
@@ -10,6 +9,9 @@
 *.npz
 *.p
 *.ann
+*.keras
+*.pb
+6 - AI Product Recommendation/Dataset/*
 
 # Template configuration from github
 # Byte-compiled / optimized / DLL files
